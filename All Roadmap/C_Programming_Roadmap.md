@@ -6,7 +6,7 @@
 
 ___________________
 
-## C Programming Language Roadmap
+# C Programming Language Roadmap
 
 Welcome to the world of C programming! This roadmap will guide you through a comprehensive journey, equipping you with the skills to become proficient in this powerful and versatile language.
 
