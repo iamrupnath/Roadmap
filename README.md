@@ -5,3 +5,6 @@
 ### 3. [Java Programming Language Roadmap](https://github.com/iamrupnath/Roadmap/blob/main/All%20Roadmap/Java_Programming_Roadmap.md)
 ### 4. [Python Programming Language Roadmap](https://github.com/iamrupnath/Roadmap/blob/main/All%20Roadmap/Python_Programming_Roadmap.md)
 ### 5. [Data Structures and Algorithms Roadmap](https://github.com/iamrupnath/Roadmap/blob/main/All%20Roadmap/DSA_Roadmap.md)
+### 6. [Front end development Roadmap](https://github.com/iamrupnath/Roadmap/blob/main/All%20Roadmap/DSA_Roadmap.md)
+### 7. [Backend development Roadmap](https://github.com/iamrupnath/Roadmap/blob/main/All%20Roadmap/DSA_Roadmap.md)
+### 8. [Full stack development Roadmap](https://github.com/iamrupnath/Roadmap/blob/main/All%20Roadmap/DSA_Roadmap.md)
